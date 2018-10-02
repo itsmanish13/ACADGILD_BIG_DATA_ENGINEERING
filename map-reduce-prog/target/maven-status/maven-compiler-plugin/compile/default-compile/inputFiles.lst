@@ -1,0 +1,6 @@
+/Users/ishu/Documents/workspace-sts-3.9.0.RELEASE/map-reduce-prog/src/main/java/org/acadgild/hadoop/map_reduce_prog/TelevisionSales.java
+/Users/ishu/Documents/workspace-sts-3.9.0.RELEASE/map-reduce-prog/src/main/java/org/acadgild/hadoop/map_reduce_prog/TotalSalesbyStateReducer.java
+/Users/ishu/Documents/workspace-sts-3.9.0.RELEASE/map-reduce-prog/src/main/java/org/acadgild/hadoop/map_reduce_prog/TotalSalesbyBrandReducer.java
+/Users/ishu/Documents/workspace-sts-3.9.0.RELEASE/map-reduce-prog/src/main/java/org/acadgild/hadoop/map_reduce_prog/TotalSalesbyBrandMapper.java
+/Users/ishu/Documents/workspace-sts-3.9.0.RELEASE/map-reduce-prog/src/main/java/org/acadgild/hadoop/map_reduce_prog/TotalSalesbyStateMapper.java
+/Users/ishu/Documents/workspace-sts-3.9.0.RELEASE/map-reduce-prog/src/main/java/org/acadgild/hadoop/map_reduce_prog/FilterMapper.java

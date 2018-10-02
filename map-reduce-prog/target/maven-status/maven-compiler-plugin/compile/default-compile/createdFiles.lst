@@ -1,0 +1,6 @@
+org/acadgild/hadoop/map_reduce_prog/TotalSalesbyStateMapper.class
+org/acadgild/hadoop/map_reduce_prog/TotalSalesbyStateReducer.class
+org/acadgild/hadoop/map_reduce_prog/TotalSalesbyBrandReducer.class
+org/acadgild/hadoop/map_reduce_prog/TotalSalesbyBrandMapper.class
+org/acadgild/hadoop/map_reduce_prog/TelevisionSales.class
+org/acadgild/hadoop/map_reduce_prog/FilterMapper.class
